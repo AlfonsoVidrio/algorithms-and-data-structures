@@ -15,3 +15,10 @@ hs_err_pid*
 .DS_Store
 
 .vscode
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+.idea
